@@ -26,6 +26,7 @@ Enter the run script directory. For AIOE-BPE model please refer to `scripts/aioe
 #### 4. Run training
 For AIOE model:
 > bash ./train_aioe.sh
+
 For AIOE-Joint model:
 > bash ./train_aioe_joint.sh
 
